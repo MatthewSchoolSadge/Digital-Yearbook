@@ -1,0 +1,10 @@
+.background { 
+    position: absolute; 
+    height: 100%; 
+    width: 100%; 
+    background-image: url("background.jpg")
+    background-size: cover; 
+    background-position: center; 
+    filter: blur(10px); 
+    z-index: -1; 
+}
